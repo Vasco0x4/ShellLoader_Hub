@@ -1,13 +1,10 @@
 # Shellcode Loader Hub 
 
 
-### This repository collects interesting shellcode loaders for Red Team operations and security research.
+This repository collects interesting shellcode loaders for Red Team operations and security research.
 
 
 
-## Categories
-
-### Main Table
 
 | No. | Project URL                                         | Description                                                                                     | Country |
 |-----|----------------------------------------------------|-------------------------------------------------------------------------------------------------|---------|
