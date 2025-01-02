@@ -22,5 +22,5 @@ This repository collects interesting shellcode loaders for Red Team operations a
 | 12  | [PECracker](https://github.com/berryalen02/PECracker) | Evasion and countermeasure tool for PE file separation.                                         | 🇨🇳 CN  |
 | 13  | [SilovLoader](https://github.com/example/SilovLoader) | A Rust-based loader designed for speed and minimal detection vectors. Popular in Russian research circles. | 🇨🇳 CN  |
 | 14  | [GhostPatch](https://github.com/example/GhostPatch) | A stealthy loader for shellcode leveraging advanced PE patching techniques.                     | 🇺🇸 EN  |
-
+| 15  | [HellBunny](https://github.com/voidvxvt/HellBunny) |Malleable shellcode loader written in C and Assembly utilizing direct or indirect syscalls for evading EDR hooks              | 🇺🇸 EN  |
 ---
