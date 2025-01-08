@@ -24,6 +24,7 @@ This repository collects interesting shellcode loaders for Red Team operations a
 | 14  | [GhostPatch](https://github.com/example/GhostPatch) | A stealthy loader for shellcode leveraging advanced PE patching techniques.                     | 🇺🇸 EN  |
 | 15  | [HellBunny](https://github.com/voidvxvt/HellBunny) |Malleable shellcode loader written in C and Assembly utilizing direct or indirect syscalls for evading EDR hooks              | 🇺🇸 EN |
 | 16  | [RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) |  Abusing Windows fork API and OneDrive.exe process to inject the malicious shellcode without allocating new RWX memory region.            | 🇺🇸 EN |
+| 17  | [C_Sep_Loader](https://github.com/1K0ng/C_Sep_Loader) | 一个简单的远程分离的加载器,免杀国内大部分杀软(360 火绒 Windows Defender 金山毒霸 电脑管家)                     | 🇨🇳 CN  |
 
 
 ---
